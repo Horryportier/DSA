@@ -7,7 +7,7 @@ repo for learning DSA and theier inmplemetation in various langs
 - [ ] [[rust/stack/Stack|Stack]]
     - [x] [[array-stack]]
     - [ ] [[linked-list-stack]]
-- [ ] [[queue]]
+- [x] [[queue]]
 - [ ] [[linked-list]]
     - [ ] [[single-linked-list]]
     - [ ] [[dubble-linked-list]]
